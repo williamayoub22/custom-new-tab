@@ -1,8 +1,15 @@
+<img width="2559" height="1185" alt="image" src="https://github.com/user-attachments/assets/75861f55-3937-46fe-811d-6b81cecb622f" />
+<img width="2559" height="1190" alt="image" src="https://github.com/user-attachments/assets/019e1718-53bf-4dda-8bda-7d72c348ac25" />
+
+
 # Custom New Tab Extension
 
 A sleek, lightweight browser extension that replaces the default "New Tab" page with a customizable dashboard featuring quick-access links, drag-and-drop sorting, and dynamic local backgrounds.
 
 All user data is stored locally in the browser for privacy, fast load times, and full offline functionality.
+
+## online website version
+https://newtabs.netlify.app/
 
 ## Features
 - Customizable quick-access links
@@ -36,6 +43,7 @@ All user data is stored locally in the browser for privacy, fast load times, and
 ├── manifest.json         # Extension configuration
 └── README.md             # Documentation
 
+```
 
 
 ## Installation
